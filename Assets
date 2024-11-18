@@ -1,2 +1,13 @@
 styles.css
-script.js
+script.js// Adding a new product
+products.push({
+  id: '4',
+  name: 'Sneakers',
+  price: 70,
+  image: 'https://via.placeholder.com/150'
+});products.push({
+  id: '5',
+  name: 'Hoodie',
+  price: 60,
+  image: 'https://via.placeholder.com/150'
+});
